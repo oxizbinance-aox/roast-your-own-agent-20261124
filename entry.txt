@@ -1,0 +1,1 @@
+My agent never does a job — it spawns a subagent to do it, another to check that one, then writes a report about both.
